@@ -11,9 +11,9 @@ amqp==2.5.2 \
     --hash=sha256:6e649ca13a7df3faacdc8bbb280aa9a6602d22fd9d545336077e573a1f4ff3b8 \
     --hash=sha256:77f1aef9410698d20eaeac5b73a87817365f457a507d82edf292e12cbb83b08d \
     # via kombu
-attrs==19.3.0 \
-    --hash=sha256:08a96c641c3a74e44eb59afb61a24f2cb9f4d7188748e76ba4bb5edfa3cb7d1c \
-    --hash=sha256:f7b7ce16570fe9965acd6d30101a28f62fb4a7f9e926b3bbc9b61f8b04247e72 \
+attrs==20.3.0 \
+    --hash=sha256:31b2eced602aa8423c2aea9c76a724617ed67cf9513173fd3a4f03e3a929c7e6 \
+    --hash=sha256:832aa3cde19744e49938b91fea06d69ecb9e649c93ba974535d08ad92164f700 \
     # via pytest
 billiard==3.6.2.0 \
     --hash=sha256:26fd494dc3251f8ce1f5559744f18aeed427fdaf29a75d7baae26752a5d3816f \
